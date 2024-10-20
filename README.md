@@ -7,11 +7,7 @@ This is CV maker based on your GitHub profile. Paste a link to your profile and 
 
 <!-- Try it here: /LINK TO NETLIFY/ -->
 
-Only public repos will get into the CV
-
-Please, note that GitHub has a limit for unauthorized requests. If you have too many repos, you may not get all of them in a resulting file
-
-Authentication is going to be added soon
+Please, note that GitHub has quite a little limit for unauthorized requests. If you have too many public repos, you may not get all of them in a resulting file
 
 ## Tech stack
 
