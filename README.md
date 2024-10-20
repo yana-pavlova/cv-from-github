@@ -1,27 +1,28 @@
 # CV from GitHub profile
 
-This is CV maker based on your Github profile. Paste a link to your profile and get it. You may copy what you get or save the whole list as a PDF file
+![1729414976014929-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8323299e-4174-43ba-baae-6672247dcb38)
 
-Try it here: /LINK TO NETLIFY/
+
+This is CV maker based on your GitHub profile. Paste a link to your profile and get the list of your projects with some details such as links to repos, languages used in a project, etc. You may save it as a PDF file
+
+<!-- Try it here: /LINK TO NETLIFY/ -->
 
 Only public repos will get into the CV
 
-Please, note that GitHub has limit for unauthorized requests. If you have too many repos, you may not get all of them in a resulting file
+Please, note that GitHub has a limit for unauthorized requests. If you have too many repos, you may not get all of them in a resulting file
 
-Authentication will be added in the nearest future
+Authentication is going to be added soon
 
 ## Tech stack
 
-Node.js
-React
-Helmet
-Typescript
-Webpack
-html2pdf
-GitHub API
-REST API
+- Typescript
+- React
+- Helmet
+- Webpack
+- Html2pdf
+- GitHub API
 
-## How to run project
+## How to run the project
 
 ```
 npm i
