@@ -1,0 +1,22 @@
+.form {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 10px;
+  width: 85%;
+  max-width: 500px;
+}
+
+.error {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  color: #ff6784;
+}
+
+@media (max-width: 375px) {
+  .form {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 85%;
+  }
+}

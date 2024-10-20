@@ -1,0 +1,25 @@
+.button {
+  max-width: 375px;
+  padding: 12px;
+	color: #FFF;
+	border: 1px solid transparent;
+	border-radius: 1rem;
+	background-color: #429FFE;
+}
+
+.button:hover {
+  background-color: #000;
+	transition: .5s;
+	cursor: pointer;
+}
+
+.button:disabled:hover {
+  cursor: not-allowed;
+  background-color: #429FFE;
+}
+
+@media (max-width: 375px) {
+  .button {
+    width: 100%;
+  }
+}

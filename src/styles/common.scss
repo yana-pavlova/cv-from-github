@@ -1,0 +1,18 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.logo {
+  text-transform: uppercase;
+  color: whitesmoke;
+}
+
+.no-page-break {
+  page-break-inside: avoid; /* нет разрыва внутри этого элемента */
+}
+
+.flexSelfCentered {
+  align-self: center;
+}
